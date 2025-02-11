@@ -22,6 +22,7 @@
 ## 🛠️ Installation & Usage
 
 ### Requirements
+- **libft**
 - **Unix-based OS** (Linux/macOS)
 - **GCC** compiler
 
